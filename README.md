@@ -1,4 +1,6 @@
 Social media Website and Application
+
+
 What is Social media?
 Websites and applications that enable users to create and share content or to participate in social networking.
 Description: Social media is an interactive computer-mediated technology that facilitates the creation or sharing of information, ideas, career interests and other forms of expression via virtual communities and networks.
